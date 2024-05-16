@@ -7,4 +7,5 @@
  ### ☑️Laboratory Worksheet 05 - Answers
  ### ☑️Laboratory Worksheet 06 - Answers
  ### ☑️Laboratory Worksheet 07 - Answers
+ ### ☑️Laboratory Worksheet 08 - Answers
  
